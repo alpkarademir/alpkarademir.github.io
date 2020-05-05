@@ -1,1 +1,1 @@
-# alpkarademir.github.io
+# Personal portfolio page works.
